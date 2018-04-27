@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app2"
+id = "com.phonegap.app3"
 version = "1.0.0">
  
- <name> app2 DATOS ALUMNOS </name>
+ <name> app3 Dia mundial de la bicicleta </name>
  
  <description>
- Aplicaion que muestra los DATOS del alumno
+ dia mundial de la bicicleta
  </description>
  
  <author href="https://build.poneghap.com" email = "wendybm698@gmail.com">
